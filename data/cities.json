@@ -37,15 +37,27 @@
       "id": "98443197"
     },
     {
-      "id": "1847",
-      "cityName": "Toulouse",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2024-07-24T03:43:49.659Z",
-      "notes": "It was a nice trip",
+      "id": "5b28",
+      "cityName": "Ordino",
+      "country": "Andorra",
+      "emoji": "🇦🇩",
+      "date": "2024-07-24T15:00:14.122Z",
+      "notes": "Another trip",
       "position": {
-        "lat": "43.601278509333646",
-        "lng": "1.446075439453125"
+        "lat": "42.55535642931978",
+        "lng": "1.533622741699219"
+      }
+    },
+    {
+      "id": "f724",
+      "cityName": "Sighisoara",
+      "country": "Romania",
+      "emoji": "🇷🇴",
+      "date": "2024-07-24T15:25:27.841Z",
+      "notes": "test",
+      "position": {
+        "lat": "46.220702308799446",
+        "lng": "24.80300903320313"
       }
     }
   ]
